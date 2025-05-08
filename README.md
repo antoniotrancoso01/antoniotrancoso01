@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [O TEU NOME]</h1>
+<h1 align="center">Hi 👋, I'm António Trancoso</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=teu-utilizador&label=Profile%20views&color=0e75b6&style=flat" alt="teu-utilizador" />
@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniotrancoso01&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotrancoso01&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
