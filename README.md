@@ -4,9 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=teu-utilizador&label=Profile%20views&color=0e75b6&style=flat" alt="teu-utilizador" />
 </p>
 
-- 🌱 I’m currently learning **[Ex: DevOps, Python, IA...]**
+### About me
 
-- 📫 How to reach me: **[teuemail@exemplo.com]**
+- 🌱 I’m currently learning Python,React.
+
+- 📫 How to reach me:(a definir).
 
 ---
 
@@ -34,8 +36,3 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-- ✨ [Algo curioso sobre ti — ex: “Gosto de automatizar tudo o que possa!”]
-
